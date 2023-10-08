@@ -15,7 +15,7 @@
 
 <h2>Requisitos:</h2>
 
-Pytz: ```pip install pytz```
+Pytz: ```pip install pytz```<br>
 Flask: ```pip install flask```
 
 <h2>Uso:</h2>
